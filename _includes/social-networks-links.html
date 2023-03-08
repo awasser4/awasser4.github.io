@@ -251,7 +251,19 @@
    </a>
  </li>
 {%- endif -%}
-
+  
+{%- if site.social-network-links.researchgate -%}
+ <li class="list-inline-item">
+   <a href="https://www.researchgate.net/profile/Corinne-Johnson-6" title="Research Gate">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+     </span>
+     <span class="sr-only">Google Scholar</span>
+   </a>
+ </li>
+{%- endif -%}
+  
 {%- if site.social-network-links.google-scholar -%}
   <li class="list-inline-item">
     <a href="https://scholar.google.com/{{ site.social-network-links.google-scholar }}" title="Google Scholar">
