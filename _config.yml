@@ -9,8 +9,6 @@
 # --- Required options --- #
 ############################
 
-url: "https://awasser4.github.io"
-baseurl: ""
 
 # Name of website
 title: Corinne Johnson
@@ -93,7 +91,7 @@ share-links-active:
   email: true
   ORCID: true
   linkedin: true
-  researchgate: false
+  researchgate: true
 #  vk: false
 
 # How to display the link to your website in the footer
@@ -101,13 +99,13 @@ share-links-active:
  url-pretty: "awasser4.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 0
+excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
