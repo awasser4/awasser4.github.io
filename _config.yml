@@ -91,7 +91,7 @@ share-links-active:
   email: true
   ORCID: true
   linkedin: true
-  researchgate: true
+#  researchgate: true
 #  vk: false
 
 # How to display the link to your website in the footer
