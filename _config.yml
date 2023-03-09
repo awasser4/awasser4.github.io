@@ -20,7 +20,7 @@ author: Corinne Johnson
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "index"
   About Me: "aboutme"
   Current Projects: "currentprojects"
   Previous Works: "previousworks"
