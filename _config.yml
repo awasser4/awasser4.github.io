@@ -264,10 +264,10 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
-      type: ""
+      path: "posts"
+      type: "true"
     values:
-      layout: ""
+      layout: "post"
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
