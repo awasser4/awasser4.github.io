@@ -22,8 +22,8 @@ author: Andrew Wasserbeck
 navbar-links:
   Home: "index"
   About Me: "aboutme"
-  Current Projects: "currentprojects"
-  Previous Projects: "previousworks"
+  Portfolio: "portfolio"
+
 
 ################
 # --- Logo --- #
